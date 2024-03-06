@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Eyx1o8sipDFWc1rk4Ll2ZHqfbsTudxQNeJ5Sd0V9cAPXxN054RyIpAk53qMxrnU0S2rp+RZZyT17wRr2z8vWmQ==",
+  "dgSpecHash": "TJuOh+bvpWlm3QgMpNFVe2XbTzncH8Wxn+nBtttTh0uksQhNGGx968dyld8b88OvLjsnOO7eUH6Bsq8VG1TBIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kemli\\source\\repos\\PSI\\PSI\\PSI\\PSI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kemli\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\kemli\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
