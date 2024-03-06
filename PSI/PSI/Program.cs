@@ -1,4 +1,7 @@
-﻿using System.Drawing;
+﻿using System;
+using System.Drawing;
 
-static void 
-Bitmap b = new Bitmap("./Images/lena.bmp");
+class Program
+{
+    
+}
