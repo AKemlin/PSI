@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Drawing;
+
+static void 
+Bitmap b = new Bitmap("./Images/lena.bmp");
