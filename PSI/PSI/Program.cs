@@ -5,8 +5,8 @@ class Program
 {
     static void Main()
     {
-        string inputPath = "chemin/vers/image/source.bmp";
-        string outputPath = "chemin/vers/image/destination.bmp";
+        string inputPath = "C:\\Users\\kemli\\source\\repos\\PSI\\PSI\\PSI\\Images.cs";
+        string outputPath = "C:\\Users\\kemli\\source\\repos\\PSI\\PSI\\PSI\\Images.cs";
 
         // Lire l'image
         using (Bitmap originalBitmap = new Bitmap(inputPath))
